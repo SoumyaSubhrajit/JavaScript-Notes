@@ -8,7 +8,7 @@
 
 ## Chapter 2: The Strategic Affiliation with Java
 
-☕ The late '90s marked the ascendancy of **Java**, and in a strategic alignment, Netscape decided to amalgamate its nascent language with the Java brand. Thus, LiveScript underwent a transformation, not in essence, but in nomenclature, becoming JavaScript.
+☕ The late '90s marked the ascendancy of **Java**, and in a strategic alignment, Netscape decided to amalgamate its nascent language with the Java brand. Thus, LiveScript underwent a transformation, not in essence, but in nomenclature, becoming JavaScript..
 
 ## Chapter 3: JavaScript as a Brand
 
