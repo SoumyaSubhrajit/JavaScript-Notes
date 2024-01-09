@@ -1,7 +1,7 @@
 
 ## Chapter 1: Genesis - The Birth of JavaScript
 
-In the mid-1990s, Brendan Eich, a visionary programmer at Netscape, set out to create a language that would bring interactivity to the burgeoning realm of web development. Initially christened "Mocha," this language underwent a series of name changes before finally settling on the moniker "JavaScript."
+In the mid-1990s, Brendan Eich, a visionary programmer at Netscape, set out to create a language that would bring interactivity to the burgeoning realm of web development. Initially christened "Mocha," this language underwent a series of name changes before finally settling on the moniker "JavaScript.."
 
 ## Chapter 2: The Strategic Affiliation with Java
 
