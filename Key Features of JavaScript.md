@@ -6,7 +6,7 @@ JavaScript enables dynamic and interactive user interfaces by allowing developer
 
 ## Cross-Browser Compatibility
 
-JavaScript is supported by all major web browsers, making it a reliable choice for building cross-browser compatible web applications. Modern frameworks and libraries further simplify the handling of browser inconsistencies..
+JavaScript is supported by all major web browsers, making it a reliable choice for building cross-browser compatible web applications. Modern frameworks and libraries further simplify the handling of browser inconsistencies.
 
 ## Asynchronous Programming
 
