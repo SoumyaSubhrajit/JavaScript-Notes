@@ -15,7 +15,7 @@ JavaScript supports asynchronous programming through features like callbacks, Pr
 
 ## Extensibility and Integration
 
-JavaScript can be easily integrated with other web technologies. It can be embedded directly within HTML pages or linked as external scripts. Additionally, JavaScript can interact with APIs, making it a key player in web service integration..
+JavaScript can be easily integrated with other web technologies. It can be embedded directly within HTML pages or linked as external scripts. Additionally, JavaScript can interact with APIs, making it a key player in web service integration.
 
 ## Server-Side Development (Node.js)
 
