@@ -13,7 +13,7 @@ JavaScript evolved beyond a mere scripting language, ascending to the status of 
 
 ## Chapter 4: The Chronicles of ECMAScript Standardization
 
-As JavaScript's popularity grew, the need for standardization became apparent. In response, the European Computer Manufacturers Association (ECMA) International took up the mantle of scrutiny, culminating in the birth of the ECMAScript standard in 1997. This standardization provided a solid foundation for the language's future development and ensured its cross-platform compatibility.
+As JavaScript's popularity grew, the need for standardization became apparent. In response, the European Computer Manufacturers Association (ECMA) International took up the mantle of scrutiny, culminating in the birth of the ECMAScript standard in 1997. This standardization provided a solid foundation for the language's future development and ensured its cross-platform compatibility..
 
 ## Chapter 5: Browser Wars and the Renaissance of JavaScript
 
