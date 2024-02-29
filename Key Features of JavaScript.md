@@ -11,7 +11,7 @@ JavaScript is supported by all major web browsers, making it a reliable choice f
 
 ## Asynchronous Programming
 
-JavaScript supports asynchronous programming through features like callbacks, Promises, and async/await. This allows developers to efficiently handle tasks such as fetching data from servers without blocking the execution of other code.
+JavaScript supports asynchronous programming through features like callbacks, Promises, and async/await. This allows developers to efficiently handle tasks such as fetching data from servers without blocking the execution of other code..
 
 ## Extensibility and Integration
 
