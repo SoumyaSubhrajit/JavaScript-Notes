@@ -18,7 +18,7 @@ let greet = function() { // 🌟 Function
 ```
 # Variables
 
-Think of variables as containers, holding these treasures. We declare them using the `let`, `var`, or `const` keyword. Watch this:
+Think of variables as containers, holding these treasures. We declare them using the, `let`, `var`, or `const` keyword. Watch this:
 
 ```javascript
 let x; // 📦 Declaration
