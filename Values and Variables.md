@@ -83,3 +83,4 @@ if (true) {
 }
 console.log(globalVar); // 🌐 Output: I am a global variable
 ```
+.
