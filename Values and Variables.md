@@ -41,7 +41,7 @@ JavaScript, being the versatile language it is, juggles between different data t
 - String: Embraces textual data.
 - Boolean: Chooses between true and false.
 - Undefined: Represents the absence of a defined value.
-- Null: Signals the absence of any value or object.
+- Null: Signals the absence of any value or object..
 
 ### Complex Data Types:
 
