@@ -21,7 +21,7 @@ The late '90s witnessed the tumultuous Browser Wars, a period of intense competi
 
 ## Chapter 6: Expanding Horizons - JavaScript Beyond the Browser
 
-JavaScript's journey extended beyond the confines of the browser, venturing into the realm of server-side programming with the advent of Node.js. This opened up new avenues for JavaScript's application, positioning it as a formidable force in full-stack development. Node.js enabled JavaScript to be used for building scalable and efficient server-side applications, making it a versatile language suitable for both front-end and back-end development..
+JavaScript's journey extended beyond the confines of the browser, venturing into the realm of server-side programming with the advent of Node.js. This opened up new avenues for JavaScript's application, positioning it as a formidable force in full-stack development. Node.js enabled JavaScript to be used for building scalable and efficient server-side applications, making it a versatile language suitable for both front-end and back-end development.
 
 ## Chapter 7: The Tapestry of Community
 
