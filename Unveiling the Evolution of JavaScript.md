@@ -5,7 +5,7 @@ In the mid-1990s, Brendan Eich, a visionary programmer at Netscape, set out to c
 
 ## Chapter 2: The Strategic Affiliation with Java
 
-Recognizing the growing popularity of Java, Netscape decided to align its nascent language with this formidable force. Thus, LiveScript underwent a transformation, not in essence but in nomenclature, becoming JavaScript. This strategic move positioned JavaScript to benefit from the Java brand's recognition and ecosystem.
+Recognizing the growing popularity of Java, Netscape decided to align its nascent language with this formidable force. Thus, LiveScript underwent a transformation, not in essence but in nomenclature, becoming JavaScript. This strategic move positioned JavaScript to benefit from the Java brand's recognition and ecosystem..
 
 ## Chapter 3: JavaScript as a Brand
 
