@@ -9,7 +9,7 @@ Recognizing the growing popularity of Java, Netscape decided to align its nascen
 
 ## Chapter 3: JavaScript as a Brand
 
-JavaScript evolved beyond a mere scripting language, ascending to the status of a brand synonymous with client-side dynamism in web development. Its ability to add interactivity and responsiveness to web pages made it an indispensable tool for web developers, propelling it to the forefront of web development.
+JavaScript evolved beyond a mere scripting language, ascending to the status of a brand synonymous with client-side dynamism in web development. Its ability to add interactivity and responsiveness to web pages made it an indispensable tool for web developers, propelling it to the forefront of web development..
 
 ## Chapter 4: The Chronicles of ECMAScript Standardization
 
