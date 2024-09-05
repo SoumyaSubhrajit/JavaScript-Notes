@@ -2,7 +2,7 @@
 
 ## Client-Side Interactivity
 
-JavaScript enables dynamic and interactive user interfaces by allowing developers to manipulate the Document Object Model (DOM) on the client side. This leads to a more engaging and responsive user experience...
+JavaScript enables dynamic and interactive user interfaces by allowing developers to manipulate the Document Object Model (DOM) on the client side. This leads to a more engaging and responsive user experience.
 
 ## Cross-Browser Compatibility
 
