@@ -45,7 +45,7 @@ JavaScript, being the versatile language it is, juggles between different data t
 
 ### Complex Data Types:
 
-- Object: A magnificent collection of key-value pairs.
+- Object: A magnificent collection of key-value pairs..
 - Function: A masterful reusable block of code.
 
 # `let`, `var`, `const`
